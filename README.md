@@ -2,7 +2,8 @@
 
 ### Teeko Project
 - https://github.com/Ardou0/Teeko-IA41
-- In this project, I was able to learn about the Python interface with tkinter and how the game plays out on the page. 
+- In this project, I was able to learn about the Python interface with tkinter and how the game plays out on the page.
+- Learn the minmax algorithm with alpha-beta pruning
 
 
 ### Trio Project
