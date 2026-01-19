@@ -14,6 +14,13 @@
 - In this project, I created the entire interface with JavaFX and the controller part linking the pages.
 - I was also able to link the model with the view in a controller package to follow the MVC model.
 
+### PetitBac Project
+#### C
+- https://github.com/Ardou0/petitbac
+- First time coding in C
+- Especially display.h/.c
+- (no github account yet when pushing)
+
 <!--
 **Cepostale/Cepostale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
