@@ -14,6 +14,11 @@
 - In this project, I created the entire interface with JavaFX and the controller part linking the pages.
 - I was also able to link the model with the view in a controller package to follow the MVC model.
 
+### Incremental Backup Project (2024)
+#### C + Linux
+- https://github.com/Ardou0/lp25-utbm
+- Managing file backups by identifying and copying only files that have been modified since the last backup
+
 ### PetitBac Project (2024)
 #### C
 - https://github.com/Ardou0/petitbac
