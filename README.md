@@ -1,17 +1,26 @@
 ## Hi 👋
 ## Here are the projects I have contributed to
 
-### Organ (2026)
+### Organ (01 - 06 / 2026)
 #### Kotlin
 - https://github.com/the-voxel-studio/organ
 - Design, retrofit to link with an API, navGraph...
 - I learned how to develop a complete project in Kotlin using Android Studio
 
-### Troudie
+
+### Troudie (06 / 2026)
 #### HTML, CSS, Typescript, Javascript + Vue.js
 - Private repository on another account
 - First time seeing vue.js
 - Professionnal architecture, Figma mockup
+
+
+### Fitts & Keystroke (04 - 05/ 2026)
+#### QT
+- Private repository on another account: https://github.com/Dandjix/fitts_TimonCelia
+- First time seeing qt code
+- The goal was to improve an interface of an existing app
+
 
 ### Teeko Project (2025)
 #### Python + Tkinter
@@ -26,10 +35,12 @@
 - In this project, I created the entire interface with JavaFX and the controller part linking the pages
 - I was also able to link the model with the view in a controller package to follow the MVC model
 
+
 ### Incremental Backup Project (2024)
 #### C + Linux
 - https://github.com/Ardou0/lp25-utbm
 - Managing file backups by identifying and copying only files that have been modified since the last backup
+
 
 ### PetitBac Project (2024)
 #### C
