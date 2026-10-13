@@ -2,13 +2,13 @@
 
 Software Engineering Student
 
-<!-- Contact : [LinkedIn](https://linkedin.com/in/ton-profil) | [Email](mailto:ton.email@example.com) -->
+<!-- Contact: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](journetcelia@gmail.com) -->
 
 ---
 
 ## Projects & Contributions
 
-### [Organ](https://github.com/the-voxel-studio/organ) — 01 à 06 / 2026
+### [Organ](https://github.com/the-voxel-studio/organ) — Jan – Jun 2026
 **Kotlin** • **Android Studio** • **REST API** • **NavGraph**
 
 * Designed and built a full Android application in Kotlin using Android Studio.
@@ -16,7 +16,7 @@ Software Engineering Student
 
 ---
 
-### Troudie — 06 / 2026
+### Troudie — Jun 2026
 **Vue.js** • **TypeScript** • **JavaScript** • **HTML/CSS** • **Figma**
 
 * Developed a web interface using Vue.js based on professional Figma mockups.
@@ -24,7 +24,7 @@ Software Engineering Student
 
 ---
 
-### [Fitts & Keystroke](https://github.com/Dandjix/fitts_TimonCelia) — 04 à 05 / 2026
+### [Fitts & Keystroke](https://github.com/Dandjix/fitts_TimonCelia) — Apr – May 2026
 **C++** • **Qt** • **UI/UX**
 
 * Enhanced and modernized the user interface of an existing desktop application using the Qt framework.
